@@ -13,3 +13,6 @@ With our knowledge of machine learning and neural networks, we’ll use the feat
 * SPECIAL_CONSIDERATIONS—Special consideration for application
 * ASK_AMT—Funding amount requested
 * IS_SUCCESSFUL—Was the money used effectively
+
+
+![brain](Just_for_fun.png "neural networks")
